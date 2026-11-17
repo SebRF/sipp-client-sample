@@ -1,0 +1,12 @@
+{
+  "canvas": "#F4F5F7",
+  "surface": "#FFFFFF",
+  "line": "#E3E6EB",
+  "ink": "#14213D",
+  "muted": "#5B6577",
+  "placeholder": "#8A93A3",
+  "brand": { "DEFAULT": "#1F4E79", "soft": "#E6EEF6" },
+  "positive": { "DEFAULT": "#1B7F4B", "soft": "#E3F4EA" },
+  "negative": { "DEFAULT": "#B42318", "soft": "#FDECEA" },
+  "pending": { "DEFAULT": "#9A6700", "soft": "#FFF4D6" }
+}
